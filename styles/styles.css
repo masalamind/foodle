@@ -1,0 +1,81 @@
+body{
+    background-color: #313552;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+section{
+    margin: 20em auto 0;
+}
+
+input[type="text"]{ 
+    height: 4em;
+    background-color: #EEE6CE;
+    
+   
+}
+
+h1{
+    color: #2EB086;
+    font-size: 5em;
+    font-family: 'Luckiest Guy', cursive, sans-serif;
+    margin-bottom:0;
+}
+
+
+
+section{
+    margin: 15em auto 0;
+}
+
+input[type="text"]{ 
+    height: 4em;
+    background-color: #EEE6CE;
+    
+   
+}
+
+h1{
+    color: #2EB086;
+    font-size: 5em;
+    font-family: 'Luckiest Guy', cursive, sans-serif;
+    margin-bottom:0;
+}
+
+em {
+    padding: 0;
+    
+    color: #EEE6CE;
+    
+}
+
+form{
+    margin-top: 5em;
+}
+
+input[type="text"]{
+    width: 600px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+button{
+    height: 3.5em;
+    border: none;
+    background-color: #B8405E;
+    color: #EEE6CE;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    width: 150px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #2EB086;
+    color:#313552;
+
+    cursor: pointer;
+    font-family: "Luckiest Guy", sans-serif;
+}
+
